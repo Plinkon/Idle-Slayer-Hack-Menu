@@ -11,4 +11,5 @@ hack menu for idle slayer
 Have Fun!
 
 
-###NOTICE:I used locuslol's tutorial for this so I give him full credit.
+### NOTICE: 
+I used locuslol's tutorial for this so I give him full credit.
